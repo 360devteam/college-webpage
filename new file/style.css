@@ -1,0 +1,22 @@
+h1{
+    color-scheme: #f9f9f9;
+    text-align: center;
+    background-position: center;
+    border-radius: 2px;
+
+}
+h2{
+    background-position: center;
+    border-top: chartreuse;
+    size: 10px;
+    text-align: end;
+
+}
+p{
+    text-align: center;
+    background-position: center;
+    
+}
+a{
+    color: cyan;
+}
